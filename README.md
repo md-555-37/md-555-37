@@ -18,12 +18,6 @@
 
 Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias: codar no fluxo, experimentar, errar, aprender e explorar possibilidades sem pressão. Aqui publico meus estudos de TI e projetos pessoais. Quero descobrir até onde consigo ir apenas codando, seguindo a vibe e testando meus próprios limites. Se, no caminho, eu ganhar mais experiência, repertório e histórias para contar, melhor ainda.
 
-<div align="center">
-  
-![astro](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-astro.svg)
-
-</div>
-
 ## 🚀 Tecnologias & Ferramentas
 
 ### Frontend

@@ -85,7 +85,6 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 
 ![antigravity](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/ferramentas/badge-antigravity.svg)
 ![vscode](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/badge-vscode.svg)
-![cursor](https://galeria-mg-555-37.vercel.app/api/svg/badges/skills/ferramentas/badge-cursor.svg)
 
 </div>
 
